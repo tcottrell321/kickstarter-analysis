@@ -41,7 +41,9 @@ There was no need to do a lot of Data Wrangling of the data as it was provided i
 
 In addition, we created a Summary Table with 12 Histogram Bars to see if there was any correlation between the $ Goal of the campaign and its success. Further statistical analysis was performed on this data to show Mean, Median, and Std Dev along with IRQ.
 
-## Data Analysis 
+### Challenge 1 Data Analysis 
+For the Challenge 1 Analysis the Excel Spreadsheet used for the Module Exercises was filtered then copied into a new spreadsheet called Challenge 1 Worksheet, saved to this repository. 
+
 Focusing only on the SubCategory for Play Campaigns, we created the 2 Tabular Summary Tables below followed by 3 additional graphs to continue our analysis.  From the Summary Tables we can see that Play Campaigns varied in their success from: 
 • 0% - 76% with an Average Success Rate of 66% (See Tabular Data and Pie Chart). 
 • Campaign Goals Less than $5K had the highest success ratings. (See Line Chart).  
