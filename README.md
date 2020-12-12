@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-# NOTE TO GRADERS - Complete Analysis with imbedded graphics is contained in the pdf file in this repository titled "An Analysis of Kickstarter Campaigns." 
+# Complete Analysis with imbedded graphics is contained in the pdf file in this repository titled "An Analysis of Kickstarter Campaigns." 
 
 ## Purpose of the Analysis
 Our Client, Louise, wants to create a Kickstarter Campaign to fund her new US Based Theatre Play. She estimates she will need to raise $10-12K.  In order to ensure success with this campaign, she requested an analysis of past Kickstarter Campaigns to determine if there were any common attributes or trends leading to success. Using data from over 4000 campaigns, the data was filtered, sorted, augmented with calculated columns, and statistically analyzed for any findings that might be useful to Louise. This report contains both the analysis as well as Final Recommendations
@@ -41,8 +41,8 @@ There was no need to do a lot of Data Wrangling of the data as it was provided i
 
 In addition, we created a Summary Table with 12 Histogram Bars to see if there was any correlation between the $ Goal of the campaign and its success. Further statistical analysis was performed on this data to show Mean, Median, and Std Dev along with IRQ.
 
-### Challenge 1 Data Analysis 
-For the Challenge 1 Analysis the Excel Spreadsheet used for the Module Exercises was filtered then copied into a new spreadsheet called Challenge 1 Worksheet, saved to this repository. 
+### Data Analysis 
+For the Analysis the Excel Spreadsheet used for the Module Exercises was filtered then copied into a new spreadsheet called Challenge 1 Worksheet, saved to this repository. 
 
 Focusing only on the SubCategory for Play Campaigns, we created the 2 Tabular Summary Tables below followed by 3 additional graphs to continue our analysis.  From the Summary Tables we can see that Play Campaigns varied in their success from: 
 • 0% - 76% with an Average Success Rate of 66% (See Tabular Data and Pie Chart). 
